@@ -1,4 +1,4 @@
-language.cmo:
-language.cmx:
+language.cmo: mergesort.cmo
+language.cmx: mergesort.cmx
 mergesort.cmo:
 mergesort.cmx:

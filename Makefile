@@ -68,7 +68,7 @@
 #
 # The Caml sources (including camlyacc and camllex source files)
 
-SOURCES = language.ml mergesort.ml
+SOURCES = mergesort.ml language.ml
 
 # The executable file to generate (default a.out under Unix)
 
