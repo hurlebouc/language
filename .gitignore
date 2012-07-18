@@ -1,2 +1,5 @@
 *.swp
 .exrc
+a.out
+*.cmi
+*.cmo
